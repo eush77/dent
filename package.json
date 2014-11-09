@@ -1,0 +1,25 @@
+{
+  "name": "dent",
+  "version": "0.0.0",
+  "description": "Destructuring assignment for ES5",
+  "author": "Eugene Sharygin <eush77@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/eush77/dent",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eush77/dent"
+  },
+  "bugs": {
+    "url": "https://github.com/eush77/dent/issues"
+  },
+  "keywords": [
+    "destructive",
+    "destructuring",
+    "assignment",
+    "es6",
+    "es5",
+    "shim"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}
