@@ -2,10 +2,10 @@
 
 [![npm](https://nodei.co/npm/dent.png)](https://nodei.co/npm/dent/)
 
-[david-badge]: https://david-dm.org/eush77/dent.png
-[david]: https://david-dm.org/eush77/dent
-[david-dev-badge]: https://david-dm.org/eush77/dent/dev-status.png
-[david-dev]: https://david-dm.org/eush77/dent#info=devDependencies
+[david-badge]: https://david-dm.org/eush77/node-dent.png
+[david]: https://david-dm.org/eush77/node-dent
+[david-dev-badge]: https://david-dm.org/eush77/node-dent/dev-status.png
+[david-dev]: https://david-dm.org/eush77/node-dent#info=devDependencies
 
 The closest equivalent to destructuring assignment in pure ES5.
 
