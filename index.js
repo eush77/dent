@@ -1,12 +1,12 @@
 'use strict';
 
 
-module.exports = function dent(array) {
-  if (array === undefined) {
-    return dent.tail.shift();
+module.exports = function dent(obj) {
+  if (obj === undefined) {
+    return dent.o[dent.idx++];
   }
 
-  dent.array = array;
-  dent.tail = array.slice();
-  return dent();
+  dent.o = obj;
+  dent.idx = 0;
+  return dent;
 };
