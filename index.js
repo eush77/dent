@@ -1,7 +1,7 @@
 'use strict';
 
 
-module.exports = function (array) {
+module.exports = function dent(array) {
   if (array === undefined) {
     return dent.tail.shift();
   }
