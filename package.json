@@ -1,6 +1,6 @@
 {
   "name": "dent",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Destructuring assignment for ES5",
   "author": "Eugene Sharygin <eush77@gmail.com>",
   "license": "MIT",
