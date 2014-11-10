@@ -7,7 +7,7 @@
 [david-dev-badge]: https://david-dm.org/eush77/dent/dev-status.png
 [david-dev]: https://david-dm.org/eush77/dent#info=devDependencies
 
-The closest you can get to **DE**structuring assignme**NT** with good old ES5's objects and functions.
+The closest you can get to DEstructuring assignmeNT with good old ES5's objects and functions.
 
 ## Example
 
