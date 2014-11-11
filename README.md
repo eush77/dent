@@ -1,11 +1,11 @@
-# dent [![Dependency Status][david-badge]][david] [![DevDependency Status][david-dev-badge]][david-dev]
+# dent [![Code Climate][codeclimate-badge]][codeclimate] [![Dependency Status][david-badge]][david]
 
 [![npm](https://nodei.co/npm/dent.png)](https://nodei.co/npm/dent/)
 
-[david-badge]: https://david-dm.org/eush77/dent.png
+[codeclimate]: https://codeclimate.com/github/eush77/dent
+[codeclimate-badge]: https://codeclimate.com/github/eush77/dent/badges/gpa.svg
 [david]: https://david-dm.org/eush77/dent
-[david-dev-badge]: https://david-dm.org/eush77/dent/dev-status.png
-[david-dev]: https://david-dm.org/eush77/dent#info=devDependencies
+[david-badge]: https://david-dm.org/eush77/dent.png
 
 The closest you can get to DEstructuring assignmeNT with good old ES5's objects and functions.
 
